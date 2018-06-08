@@ -18,14 +18,14 @@
 > git clone さっきのURL
 
 ## 課題の進め方【重要】
-- Return_JSONファイルの中に、自分のローマ字表記のファイルを作成(ex. Ryo_Tozawa)
+- Return_JSONフォルダの中に、自分のローマ字表記のフォルダを作成(ex. Ryo_Tozawa)
 - ブランチを作成
 > git branch Ryo_Tozawa
 - ブランチを切る
 > git checkout Ryo_Tozawa
 - 作成したファイルのみをGit管理に追加
 > git add Ryo_Tozawa
-- Ryo_Tozawaの中で、課題のプログラムを作成
+- Ryo_Tozawaの中で、課題のプログラムを作成（※作成したファイルの外は絶対に汚さないように）
 
 ## 提出方法【重要】
 - 増えたファイルを追加
@@ -38,7 +38,7 @@
 > ページ左側のBranch: masterを押した時、自分のBranchがあれば成功！
 - プルリクエスト
 > ページ上部のPull Requestを選択し、New pull requestで、masterにがちゃんこする旨を記載しよう
-- 管理者が、がちゃんこして課題終了です！
+- 管理者(今回は戸澤)が、がちゃんこして課題終了です！
 
 ## 何か困ったら
 - 使う言語を決めたら戸澤に一言相談してくれると、開発用ソフトを一緒に探します！
